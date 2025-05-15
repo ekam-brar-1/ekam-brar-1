@@ -1,17 +1,41 @@
-Hi, I'm Ekamjot Singh, a passionate developer with a strong interest in web development and emerging technologies.
+# Ekamjot Singh 👋
 
--Tech Interests & Knowledge:
+Experienced Full-Stack Developer passionate about building scalable web applications and solving real-world problems.
 
-Proficient in Python, React, JavaScript, and Java for building dynamic and responsive applications.
-Enthusiastic about AI and Machine Learning, exploring how these technologies can shape the future.
+---
 
-- What I’m Working On:
+## 🚀 Skills & Technologies
 
-Building projects that solve real-world problems, including a portfolio app in React and backend solutions for job discovery.
+**Languages:** JavaScript (ES6+), TypeScript, Python, Java
+**Frontend:** React, Next.js, React Native (Expo), HTML5, CSS3, Tailwind CSS
+**Backend:** Node.js, Express, REST & GraphQL APIs, Oracle APEX, PL/SQL
+**Databases & Storage:** MongoDB, Supabase, PostgreSQL, Firebase, AWS S3, Cloudinary
+**DevOps & Tools:** Git, GitHub, Docker, Vercel, Render, Stripe, CI/CD, Testing (Jest, Cypress)
+**AI & ML Integrations:** OpenAI APIs, Google Gemini, Data Visualization
 
--Collaboration:
-I’m always open to collaborating on innovative projects, particularly in web development or AI/ML domains. Let’s connect and create something impactful together!
-<!---
-ekam-brar-1/ekam-brar-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌟 Selected Projects
+
+* **Rolla**: Custom e-commerce platform for personalized apparel with AI-driven recommendations.
+* **Cypress**: Notion-like collaboration tool built with React and Supabase.
+* **2D Metaverse App**: Real-time multiplayer chat & voice platform using Phaser.js and Socket.io.
+* **Portfolio App**: Interactive developer portfolio built with React and Next.js.
+
+---
+
+## 🤝 Collaboration
+
+I’m always open to collaborating on innovative web development or AI/ML projects. Let’s connect and create something impactful together!
+
+---
+
+## 📫 Contact & Connect
+
+* 🌐 Portfolio: [ekamjotsingh.me](https://ekamjotsingh.me)
+* 💼 LinkedIn: [linkedin.com/in/ekamjot-singh123](https://linkedin.com/in/ekamjot-singh123)
+* 🐙 GitHub: [github.com/ekam-brar-1](https://github.com/ekam-brar-1)
+* 📧 Email: [ekamjot0123@gmail.com](mailto:ekamjot0123@gmail.com)
+
+> "Creating meaningful technology solutions that drive impact."
+
